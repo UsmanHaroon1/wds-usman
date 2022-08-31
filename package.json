@@ -1,5 +1,8 @@
 {
   "name": "wds-usman",
+  "publisher": "usman-haroon",
+  "repository": {"type": "git", 
+  "url": "https://github.com/UsmanHaroon1/wds-usman.git"},
   "displayName": "Usman personal site opening extension",
   "description": "Open Usman Haroon's personal website",
   "version": "0.0.1",
