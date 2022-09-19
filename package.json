@@ -3,11 +3,11 @@
   "publisher": "usman-haroon",
   "repository": {"type": "git", 
   "url": "https://github.com/UsmanHaroon1/wds-usman.git"},
-  "displayName": "Usman personal site opening extension",
+  "displayName": "Usman's personal site opening extension",
   "description": "Open Usman Haroon's personal website",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.37.0"
   },
   "categories": [
     "Other"
@@ -33,7 +33,7 @@
     "@types/glob": "^7.2.0",
     "@types/mocha": "^9.1.1",
     "@types/node": "16.x",
-    "@types/vscode": "^1.70.0",
+    "@types/vscode": "^1.37.0",
     "@vscode/test-electron": "^2.1.5",
     "eslint": "^8.20.0",
     "glob": "^8.0.3",
